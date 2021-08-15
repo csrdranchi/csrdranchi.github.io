@@ -726,7 +726,7 @@ input, select, textarea {
   margin: 1px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 135px;
 }
 
 .gallery:hover {
